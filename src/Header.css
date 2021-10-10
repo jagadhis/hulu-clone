@@ -1,7 +1,7 @@
 .header {
-  color: #22577a;
+  color: white;
   display: flex;
-  background-color: #80ed99;
+  /* background-color: #80ed99; */
   align-items: center;
   justify-content: space-between;
   padding: 20px;
